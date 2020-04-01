@@ -19,4 +19,4 @@ How it works? In the first step, as said before, the circle is represented by re
 
 José Augusto – [@joseaugustojesus](https://www.linkedin.com/in/joseaugusto-js/) – joseaugusto@dewale.com.br
 
-[My Profile Github](https://github.com/joseaugustojesus)
+[My Profile Github](https://github.com/augustojesus)
