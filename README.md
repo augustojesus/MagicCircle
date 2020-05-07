@@ -7,9 +7,9 @@
 
 
 ----------
-<div style="text-align: center">
+
 ![IMAGE1](https://github.com/augustojesus/MagicCircle/blob/master/assets/img_1.png?raw=true)
-</div>
+
 
 How it works? 🏆
 ---------------------  
