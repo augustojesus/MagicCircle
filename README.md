@@ -1,6 +1,5 @@
 <h1 align="center"> Magic Circle Challenge</h1>
 
---------------------------
 
 ![CHALLENGE](https://github.com/augustojesus/MagicCircle/blob/master/assets/bannerChallenge.png?raw=true)
 
